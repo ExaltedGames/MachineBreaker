@@ -17,7 +17,8 @@ _global_script_class_icons={
 
 config/name="MachineBreaker"
 run/main_scene="res://Main.tscn"
-config/icon="res://icon.png"
+config/icon="res://Assets/Icon.PNG"
+config/windows_native_icon="res://Assets/Icon.ico"
 
 [display]
 
