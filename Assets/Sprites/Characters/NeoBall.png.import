@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Purpetrater.png-57be4f6884f038da93d1b0af9b95b367.stex"
+path="res://.import/NeoBall.png-cfe984f0dca033bfb59b927066678996.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Purpetrater.png"
-dest_files=[ "res://.import/Purpetrater.png-57be4f6884f038da93d1b0af9b95b367.stex" ]
+source_file="res://Assets/Sprites/Characters/NeoBall.png"
+dest_files=[ "res://.import/NeoBall.png-cfe984f0dca033bfb59b927066678996.stex" ]
 
 [params]
 

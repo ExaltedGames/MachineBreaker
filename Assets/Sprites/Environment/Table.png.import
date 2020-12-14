@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ProtoProtagComplete.png-2230cbc2a6526e44ad0816e199168a06.stex"
+path="res://.import/Table.png-c2046562b618a52765fd477ed6814e0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/ProtoProtagComplete.png"
-dest_files=[ "res://.import/ProtoProtagComplete.png-2230cbc2a6526e44ad0816e199168a06.stex" ]
+source_file="res://Assets/Sprites/Environment/Table.png"
+dest_files=[ "res://.import/Table.png-c2046562b618a52765fd477ed6814e0b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NeoBall.png-e103936004a98fc74fdbd262954e6fc2.stex"
+path="res://.import/ProtoProtagComplete-sheet.png-a9f71cafc83e368cf7be914b5655d3d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/NeoBall.png"
-dest_files=[ "res://.import/NeoBall.png-e103936004a98fc74fdbd262954e6fc2.stex" ]
+source_file="res://Assets/Sprites/Characters/ProtoProtagComplete-sheet.png"
+dest_files=[ "res://.import/ProtoProtagComplete-sheet.png-a9f71cafc83e368cf7be914b5655d3d1.stex" ]
 
 [params]
 
