@@ -16,4 +16,8 @@ export_presets.cfg
 .mono/
 data_*/
 
+# Visual-Studio Specific Ignores
+.vs/
+.csproj	
+
 # End of https://www.toptal.com/developers/gitignore/api/godot
