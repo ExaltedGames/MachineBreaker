@@ -19,7 +19,6 @@ public class PlayerBall : KinematicBody2D
 	public override void _Process(float dt)
 	{
 		var collision = MoveAndCollide((velocity * speed) * dt);
-		// r = GetNode<CollisionShape2D>("CollisionShape2D").radius;
 		if(collision != null)
 		{
 			velocity = velocity.Bounce(collision.Normal);
